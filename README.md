@@ -1,4 +1,23 @@
 # Deploying-Active-Directory
+
+
+
+<h1>Active Directory: Configuring and Deploying Active Directory 🪟</h1>
+In this section of the Active Directory lab, I run through the process of promoting the Server to a Domain Controller, Creating Organisational Units, Creating Users, Promoting Users as Admins, Remotely Connecting to the Client Domain from the Server and Keeping the Domain Properties Organised.
+(Link Back to Main Project Contents Page is at the Bottom of this Repo)
+
+<h2>Environments and Technologies Used</h2>
+Microsoft Azure Resource Group
+Microsoft Azure Windows 10 Pro version 22H2 - x64 Gen2 Virtual Machine
+Microsoft Azure Windows Server 22 Datacenter: Azure Edition - x64 Gen2 Virtual Machine
+Operating Systems Used
+Local Windows 11 Home Version 21H2
+Windows 10 Pro Version 22H2 Virtual Machine
+Windows Server 22 Datacenter: Azure Edition - x64 Gen2 Virtual Machine
+
+<h2>List of Prerequisites</h2>
+Microsoft Azure Subscription
+<br>
 <h2>Part 1: Active Directory Setup and Client Domain Join</h2>
 
 <h3>1. Install Active Directory Domain Services</h3>
