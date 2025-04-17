@@ -28,9 +28,21 @@ Microsoft Azure Subscription
   </li>
   <li>
     <p>Install the Active Directory Domain Services role.</p>
+    <p>
+<img src="https://imgur.com/8VJxb03.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+    <p>
+<img src="https://imgur.com/Vn4T2KV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+    <p>
+<img src="https://imgur.com/Vn4T2KV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
   </li>
   <li>
     <p>Promote the server to a Domain Controller, creating a new forest named <code>mydomain.com</code> (or your chosen domain name). Remember this domain name for subsequent steps.</p>
+    <p>
+<img src="https://imgur.com/iw7TgQ4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
   </li>
   <li>
     <p>Restart the DC-1 virtual machine.</p>
@@ -46,12 +58,21 @@ Microsoft Azure Subscription
   <li>
     <p>Open Active Directory Users and Computers (ADUC).</p>
   </li>
+  <p>
+<img src="https://imgur.com/IFFSXOc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
   <li>
     <p>Create a new Organizational Unit (OU) named <code>_EMPLOYEES</code>.</p>
   </li>
+  <p>
+<img src="https://imgur.com/YzzFRHt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
   <li>
     <p>Create a new OU named <code>_ADMINS</code>.</p>
   </li>
+  <p>
+<img src="https://imgur.com/ufuVZN0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
   <li>
     <p>Create a new user named "Jane Doe" with the following details:</p>
     <ul>
